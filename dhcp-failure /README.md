@@ -1,4 +1,4 @@
-# Wrong DNS Configuration – Active Directory Lab Scenario
+# DHCP Failure / APIPA Scenario
 
 ## Overview
 
